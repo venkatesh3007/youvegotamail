@@ -2,7 +2,7 @@ Installation Steps :-
 
 1. Install node > 0.12.4
 2. run `git clone https://github.com/venkatesh3007/youvegotamail.git`
-3. cd youvegotmail
+3. `cd youvegotmail`
 4. `npm install`
 5. replace imap server and user credentials in inbox.js file
 6. `node inbox.js`
