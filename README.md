@@ -6,4 +6,4 @@ Installation Steps :-
 4. `npm install`
 5. replace imap server and user credentials in inbox.js file
 6. `node inbox.js`
-7. Try sending an mail to the email address, you've specified in inbox.js.
+7. Try sending an e-mail to the email address, you've specified in inbox.js.
